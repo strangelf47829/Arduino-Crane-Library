@@ -1,0 +1,49 @@
+#######################################
+# Syntax Coloring Map For Crane
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+Crane	KEYWORD2
+verify	KEYWORD2
+init	KEYWORD2
+instruct	KEYWORD2
+monitor	KEYWORD2
+update	KEYWORD2
+
+sendData	KEYWORD2
+
+onReceive	KEYWORD2
+
+flushBuffer	KEYWORD2
+addToBuffer	KEYWORD2
+pushBuffer	KEYWORD2
+removeNFromBuffer	KEYWORD2
+available	KEYWORD2
+readBuffer	KEYWORD2
+
+returnHC06Msg	KEYWORD2
+
+step	KEYWORD2
+stepTo	KEYWORD2
+setSpeedOf	KEYWORD2
+stepSync	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Crane	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
